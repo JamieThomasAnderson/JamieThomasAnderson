@@ -1,8 +1,9 @@
 <h2 align="center">Jamie Anderson 👋</h2>
 <h3 align="center">Computer Science | Queensland University of Technology</h3>
 
-✨ Creating bugs since 2019
 💻 I host my personal/school projects here. Feel free to poke around!
+
+✨ Creating bugs since 2019
 
 ###
 
