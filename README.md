@@ -6,9 +6,9 @@
 ✨ Creating bugs since 2019
 
 ###
-
+<!--
 <img align="right" height="200" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif"  />
-
+-->
 ###
 
 <div align="left">
@@ -20,6 +20,7 @@
 </a>
 </div>
 
+<!--
 ###
 
 <h3 align="left">🛠️ Technologies I Use:</h3>
