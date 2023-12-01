@@ -1,3 +1,4 @@
+<!--
 <h2 align="center">Jamie Anderson 👋</h2>
 <h3 align="center">Computer Science | Queensland University of Technology</h3>
 
@@ -8,7 +9,7 @@
 ###
 <!--
 <img align="right" height="200" src="https://media.giphy.com/media/nGMnDqebzDcfm/giphy.gif"  />
--->
+
 ###
 
 <div align="left">
